@@ -77,3 +77,7 @@ screenshots/
 _merge_backup/
 *.md.bak
 
+# Python byte-compilation artifacts
+__pycache__/
+*.pyc
+

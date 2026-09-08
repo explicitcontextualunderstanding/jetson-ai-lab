@@ -73,6 +73,10 @@ coverage/
 screenshots/
 .screenshots/
 
+# Miscellaneous Python byte-compilation artifacts
+__pycache__/
+*.pyc
+
 # Merge/rebase scratch dirs and AI working files
 _merge_backup/
 *.md.bak
